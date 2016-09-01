@@ -1,0 +1,3 @@
+﻿namespace FullStack.GigHub.Models
+{
+}
